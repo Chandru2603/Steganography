@@ -1,3 +1,9 @@
+
+/*Name: Chandrshekhar R S
+* Date :21/09/2026*
+*Description: Steganography means hiding the message or information.Here we are hideing the data using msb bit*/
+
+
 # Image Steganography in C
 
 A command-line tool that hides (encodes) and extracts (decodes) a secret text
